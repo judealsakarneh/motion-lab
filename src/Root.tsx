@@ -27,7 +27,7 @@ import './style.css';
 export const RemotionRoot: React.FC = () => {
   return (
     <>
-      {/* Revorva — one continuous take, no cuts. 1920x1080, 60fps, 15.000s. */}
+      {/* Revorva — one continuous take, no cuts. 1920x1080, 60fps, 10.000s. */}
       <Composition
         id="RevorvaFilm"
         component={RevorvaFilm}

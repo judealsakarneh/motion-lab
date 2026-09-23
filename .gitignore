@@ -3,3 +3,6 @@ out
 .DS_Store
 *.log
 .remotion
+
+# Claude Code tooling (installed skills, not project source)
+.claude/
